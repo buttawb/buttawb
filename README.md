@@ -3,7 +3,6 @@
 
 <h1 align="center">Hey 👋, I'm Abdul Wahab <br> <br> </h1>
 
-<!-- <h3 align="center">Backend Engineer</h3> -->
 <p align="left">
 </p>
 
