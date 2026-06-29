@@ -28,8 +28,6 @@
 
 ## &nbsp;&nbsp;🧠 &nbsp;Engineering
 
-<p align="center"><i>The part that doesn't go away when the code writes itself.</i></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/System%20Design-0F7A53?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Multi--Tenant%20Architecture-0F7A53?style=for-the-badge"/>
