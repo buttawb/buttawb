@@ -3,22 +3,22 @@
 <h1 align="center">Abdul Wahab Butt</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20%26%20Infrastructure%20Engineer-0F7A53?style=for-the-badge&labelColor=0F7A53"/>
+  <img src="https://img.shields.io/badge/Software%20Engineer-0F7A53?style=for-the-badge&labelColor=0F7A53"/>
 </p>
 
 <p align="center">
-  <i>Keeping multi-tenant SaaS platforms running for <b>2,000+ organizations</b>.<br/>
-  Backend and infrastructure at the core, with full-stack delivery, frontend integration, and technical leadership on top.</i>
+  <i>Software engineer, strongest on the backend, building and running production SaaS across the stack.<br/>
+  Co-founder &amp; CTO building and running production SaaS, and working with applied AI and LLMs (RAG, Amazon Bedrock).</i>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/3%2B%20Years-0F7A53?style=flat-square"/>
-  <img src="https://img.shields.io/badge/2%2C000%2B%20Organizations-0F7A53?style=flat-square"/>
-  <img src="https://img.shields.io/badge/99.5%25%20Uptime-0F7A53?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backend%20%2B%20Full--Stack-0F7A53?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLM%20Engineering-0F7A53?style=flat-square"/>
 </p>
 
 <p align="center">
-  <a href="https://abdulwahabbutt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F7A53?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://abdulwahabbutt.me"><img src="https://img.shields.io/badge/Portfolio-0F7A53?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://linkedin.com/in/buttawb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:buttawb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/buttawb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -30,12 +30,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/System%20Design-0F7A53?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLM%20Engineering-0F7A53?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-0F7A53?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Multi--Tenant%20Architecture-0F7A53?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Design-0F7A53?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Reliability%20%26%20Observability-0F7A53?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-0F7A53?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Distributed%20Systems-0F7A53?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scaling%20%26%20Performance-0F7A53?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API%20Design-0F7A53?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/On--Call%20%26%20Incident%20Response-0F7A53?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Full--Stack%20Delivery-0F7A53?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Technical%20Leadership-0F7A53?style=for-the-badge"/>
@@ -48,6 +49,18 @@
 <table>
 <tr>
 <td valign="top" width="50%">
+
+<sub><b>Languages &amp; Frameworks</b></sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
 
 <sub><b>APIs &amp; Real-time</b></sub>
 
@@ -79,14 +92,21 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
-<sub><b>Observability &amp; AI</b></sub>
+<sub><b>Observability</b></sub>
 
 <p>
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white"/>
   <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+<sub><b>AI &amp; LLM</b></sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20Polly-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 </p>
 
 </td>
